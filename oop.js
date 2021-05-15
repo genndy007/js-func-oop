@@ -35,5 +35,5 @@ Student.prototype.sayName = function () {
     console.log('Redefine method');
 };
 
-var s1 = new Student('arnold', 'js');
-console.log(s1.name);
+// var s1 = new Student('arnold', 'js');
+// console.log(s1.name);
